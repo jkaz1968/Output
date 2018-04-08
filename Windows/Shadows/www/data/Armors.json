@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"atypeId":3,"description":"A sealed, self-contained environment suit designed for\nuse in space or hostile environments.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":-0.1}],"iconIndex":137,"name":"Vac Suit","note":"","params":[0,0,0,20,0,0,-5,0],"price":0},
+{"id":2,"atypeId":4,"description":"A vac suit reinforced with armor plating.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":-0.15}],"iconIndex":137,"name":"Armored Vac Suit","note":"","params":[0,0,0,30,0,0,-10,0],"price":0}
+]

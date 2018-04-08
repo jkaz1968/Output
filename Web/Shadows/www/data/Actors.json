@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"ArmoredBattlers","characterIndex":3,"characterName":"Characters","classId":1,"equips":[1,1,2,1,0],"faceIndex":7,"faceName":"Character_Mah","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roberta Mah","nickname":"Bobbie","note":"","profile":""},
+{"id":2,"battlerName":"ArmoredBattlers","characterIndex":0,"characterName":"Characters","classId":2,"equips":[2,1,2,1,0],"faceIndex":0,"faceName":"Character_Schultz","traits":[],"initialLevel":1,"maxLevel":99,"name":"Darrin Schultz","nickname":"Captain","note":"","profile":""},
+{"id":3,"battlerName":"ArmoredBattlers","characterIndex":2,"characterName":"Characters","classId":3,"equips":[1,0,2,0,4],"faceIndex":0,"faceName":"Character_Wise","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fred Wise","nickname":"Fred","note":"","profile":""},
+{"id":4,"battlerName":"ArmoredBattlers","characterIndex":1,"characterName":"Characters","classId":4,"equips":[3,0,2,0,4],"faceIndex":0,"faceName":"Character_Cola","traits":[],"initialLevel":1,"maxLevel":99,"name":"Isa Cola","nickname":"Isa","note":"","profile":""}
+]

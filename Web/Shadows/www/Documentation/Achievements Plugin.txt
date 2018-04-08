@@ -1,0 +1,28 @@
+To set up achievements for your game, it's best to set up the achievements
+right at the start of the game. Using the following plugin commands, we'll
+create a few achievements.
+
+1) - upp_setAchievementName id [Where id is the number. Start with 1 and
+								   work your way up.]
+2) - upp_setAchievementDesc id [This sets the description of the achievement.]
+3) - upp_setAchievementLocation id [This sets the location of the achivement.]
+4) - upp_setAchievementHidden id [This hides the achievement from the
+									 achievement list.]
+5) - upp_setAchievementComplete id [This marks the achievement complete. ]
+
+It's best to use comments to separate the starting event that creates
+your achievements.
+
+You can also use the plugin command upp_openAchievementsViewer to open
+the achievements directly.
+
+Window Locations:
+upper_left, upper_center, upper_right,
+mid_left, mid_center, mid_right,
+bottom_left, bottom_center, bottom_right
+
+Config BG Location Names:
+animations, battlebacks1, battlebacks2,
+characters, enemies, faces, parallaxes,
+pictures, sv_actors, sv_enemies, system, 
+tilesets, title1, title2
